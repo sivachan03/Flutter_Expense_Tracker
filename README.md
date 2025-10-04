@@ -11,7 +11,7 @@ This is a simple Flutter application built for learning and practice.
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](Output/1.jpg)
 
 ### Profile Screen
 ![Profile Screen](assets/screenshots/profile.png)
